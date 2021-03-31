@@ -33,7 +33,7 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Bootstrap 5
+- Bootstrap v5.0
 
 ### Continued development
 
